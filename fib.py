@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 fibnum = int(input("Enter number of fib values: "))
 fiblist = []
 
